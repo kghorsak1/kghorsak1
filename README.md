@@ -5,7 +5,7 @@
 - During the inital AI craze in early 2023 I saw this as an oppurtunity to start coding again and wanted to focus on a practical automation use case and decided to build one from the ground up.
 - This has introduced me to popular Github repos like GPT-Engineer and Quivr that I now can't live without.
 - I find my mind constantly swirling with ideas and I hope to continue coding in some fashion for the forseeable future.
-- Through these experiences I have been substantial able to understand the growth of data and automation in recent years and how this will only compound in the years to come.
+- Through these experiences I have been able to understand the substantial growth of data and automation in recent years and how this will only compound in the years to come.
 - I hope to Apply to the UT Master's in Data Science Program come December 2023!
 
 <!---
