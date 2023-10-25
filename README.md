@@ -6,7 +6,7 @@
 - This has introduced me to popular Github repos like GPT-Engineer and Quivr.
 - I find my mind constantly swirling with ideas and I hope to continue coding in some fashion for the forseeable future.
 - Through these experiences I have been able to understand the substantial growth of data and automation in recent years and how this will only compound in the years to come.
-- I hope to Apply to the UT Master's in Data Science Program come December 2023!
+- I will be applying to numerous Master's in Data Science Programs come December 2023!
 
 <!---
 kghorsak1/kghorsak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
