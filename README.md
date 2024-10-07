@@ -2,11 +2,9 @@
 - I'm a previous Architecural Engineering major at UT Austin who has always been interested in coding, I am currently pursuing a Masters in Business Analytics. I discovered my passion for coding through creating different stock indicators in Highschool via TDAmeritrade's trading platform ThinkorSwim.
 - I further delved into the coding realms by taking CS 303e at UT for fun.
 - This more structured understanding of coding and my instinctive sense for math led me to work with my statistics TA on a summer research project. This introduced me to the world of university research, big data, and machine learning.
-- During the inital AI craze in early 2023 I saw this as an oppurtunity to start coding again and wanted to focus on a practical automation use case and decided to build one from the ground up.
-- This has introduced me to popular Github repos like GPT-Engineer and Quivr.
-- I find my mind constantly swirling with ideas and I hope to continue coding in some fashion for the forseeable future.
+- After finding this passion outside of my undergrad major I decided to focus on a practical business automation use case and decided to build one from the ground up.
 - Through these experiences I have been able to understand the substantial growth of data and automation in recent years and how this will only compound in the years to come.
-- I will be applying to numerous Master's in Data Science Programs come December 2023!
+- Here on my github I have posted various projects, a partcial business use case of text automation, a simple customizable python game, and an optimization class project focused on image segmentation with more to come!
 
 <!---
 kghorsak1/kghorsak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
